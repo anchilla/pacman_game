@@ -1,0 +1,16 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+/* border box - elements margins and padding are included in its total 
+width and height */
+#canvas1{
+	background: black;
+	
+	display: inline;
+}
+.canvas_container{
+	 width: 100%;
+   text-align:center;
+}
